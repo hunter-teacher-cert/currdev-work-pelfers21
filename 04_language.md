@@ -65,8 +65,9 @@ void draw() {
     See below for a slight difference in creating the same drawing:
     
     P5
+    
     barWidth = 20;
-lastBar = -1;
+    lastBar = -1;
 
 function setup() {
   createCanvas(640, 360);
