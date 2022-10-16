@@ -28,3 +28,61 @@
     same including the syntax.  Both need to be "set up" and "draw" to start the programs.  This is where they create the canvas and decide what they will 
     draw.  Other functions can be created with variables, conditionals, loops, etc as well.  The language is fairly straight forward and will enable to students
     to get a good understanding of text-based language to ready them for high school.
+    
+    Here's how an example looks in Processing vs P5:
+    
+    Processing:
+    /**
+ * Hue. 
+ * 
+ * Hue is the color reflected from or transmitted through an object 
+ * and is typically referred to as the name of the color such as 
+ * red, blue, or yellow. In this example, move the cursor vertically 
+ * over each bar to alter its hue. 
+ */
+ 
+int barWidth = 20;
+int lastBar = -1;
+
+void setup() {
+  size(640, 360);
+  colorMode(HSB, height, height, height);  
+  noStroke();
+  background(0);
+}
+
+void draw() {
+  int whichBar = mouseX / barWidth;
+  if (whichBar != lastBar) {
+    int barX = whichBar * barWidth;
+    fill(mouseY, height, height);
+    rect(barX, 0, barWidth, height);
+    lastBar = whichBar;
+  }
+}
+
+    
+    See below for a slight difference in creating the same drawing:
+    
+    P5
+    barWidth = 20;
+lastBar = -1;
+
+function setup() {
+  createCanvas(640, 360);
+  colorMode(HSB, height, height, height);  
+  noStroke();
+  background(0);
+}
+
+function draw() {
+   whichBar = mouseX / barWidth;
+  if (whichBar != lastBar) {
+    barX = whichBar * barWidth;
+    fill(mouseY, height, height);
+    rect(barX, 0, barWidth, height);
+    lastBar = whichBar;
+  }
+}
+    
+    
