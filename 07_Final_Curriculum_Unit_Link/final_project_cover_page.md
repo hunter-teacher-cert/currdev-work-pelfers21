@@ -1,6 +1,6 @@
 ## TITLE: INTRODUCTION TO p5.js
 ## DEVELOPED BY:  Jerusha, Patti & Sarani
-## Github Link:  https://github.com/hunter-teacher-cert/unit_plan-p5-j5-s5-wot 
+## Github Unit Link:  https://github.com/hunter-teacher-cert/unit_plan-p5-j5-s5-wot 
 ## General Overview - Unit Description
 
 APPLICABLE GRADE(S): 6th, 7th and 8th.
