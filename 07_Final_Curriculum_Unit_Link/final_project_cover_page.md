@@ -42,10 +42,10 @@ https://p5js.org
 https://p5js.org/reference/
 https://p5js.org/examples/
 https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet
-https://www.w3schools.com/tags/default.asp (W3schools HTML Cheat Sheet)
-https://www.w3schools.com/cssref/index.php (W3Schools CSS Cheat Sheet)
-http://htmlcolorcodes.com (for coloring for P5)
-
+(W3schools HTML Cheat Sheet) https://www.w3schools.com/tags/default.asp 
+(W3Schools CSS Cheat Sheet) https://www.w3schools.com/cssref/index.php 
+(for coloring for P5)
+ http://htmlcolorcodes.com 
 ## VIDEO LINKS:
 https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1&t=0s
 https://www.youtube.com/watch?v=MXs1cOlidWs
@@ -60,7 +60,7 @@ Youtube - The Coding Train Channel for Additional tutorials
 ANTICIPATED DURATION: 2 Weeks
 
 ## LESSON TABLE OF CONTENTS:
-### WEEK 1: Introduction to P5 Interface - What is P%
+### WEEK 1: Introduction to P5 Interface - What is P5
 ### (Lesson):  https://drive.google.com/file/d/1o-fy7MuzLR_5sF_my9K4CW5EZW2XjkKm/view?usp=sharing 
 ### Slide Deck): https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharing 
 ### WEEK 2: Creating With Shapes in the P5 Editor -Using the Graph
