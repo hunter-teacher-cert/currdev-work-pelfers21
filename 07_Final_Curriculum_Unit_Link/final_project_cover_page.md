@@ -61,11 +61,11 @@ ANTICIPATED DURATION: 2 Weeks
 
 ## LESSON TABLE OF CONTENTS:
 ### WEEK 1: Introduction to P5 Interface - What is P%
-https://drive.google.com/file/d/1o-fy7MuzLR_5sF_my9K4CW5EZW2XjkKm/view?usp=sharing (Lesson)
-https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharing (Slide Deck)
+Lesson:  https://drive.google.com/file/d/1o-fy7MuzLR_5sF_my9K4CW5EZW2XjkKm/view?usp=sharing (Lesson)
+Slide Deck: https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharing (Slide Deck)
 ### WEEK 2: Creating With Shapes in the P5 Editor -Using the Graph
-https://drive.google.com/file/d/1Q4_U-BsCfFWQ5l6EG6uWa_1PCroYzlYV/view?usp=sharing (Lesson)
-https://drive.google.com/file/d/1gC2aLxqKyPrYhwnoS-STo5nF5dzojBxk/view?usp=sharing (Slide Deck)
+Lesson:  https://drive.google.com/file/d/1Q4_U-BsCfFWQ5l6EG6uWa_1PCroYzlYV/view?usp=sharing (Lesson)
+Slide Deck:  https://drive.google.com/file/d/1gC2aLxqKyPrYhwnoS-STo5nF5dzojBxk/view?usp=sharing (Slide Deck)
 ### WEEK 3:  Creating with Additional Shapes
 https://drive.google.com/file/d/12QbDDfeXE37RHqFTNK-tPer38zDNopFu/view?usp=sharing (Lesson)
 https://drive.google.com/file/d/1X-Nc21u_GBA_EwU0uNzDyg9XgClixpsS/view?usp=sharing (Slide Deck)
