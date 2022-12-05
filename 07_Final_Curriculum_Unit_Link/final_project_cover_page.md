@@ -32,28 +32,28 @@ PROGRAM ENVIRONMENT(S): p5.js IDE LINK: https://editor.p5js.org
 ADDITIONAL MATERIALS: See individual lessons
 ## Resources:
 Rubric:
-https://drive.google.com/file/d/1lMPVtwNHcEIQUMTBpnfV06O1dyQXV8D9/view?usp=sharing 
-P5Graph https://drive.google.com/file/d/1ZRwv7PxCBkZcXK21mRlOGEJMbZh19Ron/view?usp=sharing 
-Culture Project Planning Packet https://drive.google.com/file/d/1ro1pvdYHlK4bwFTDWH1aLwD2nE-utkmS/view?usp=sharing 
-Final Project Directions https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing
-Reference Page https://drive.google.com/file/d/1_gXl_PfzrZelWk0g-aqvn74oL2p9WM4G/view?usp=sharing 
+### https://drive.google.com/file/d/1lMPVtwNHcEIQUMTBpnfV06O1dyQXV8D9/view?usp=sharing 
+### P5Graph https://drive.google.com/file/d/1ZRwv7PxCBkZcXK21mRlOGEJMbZh19Ron/view?usp=sharing 
+### Culture Project Planning Packet https://drive.google.com/file/d/1ro1pvdYHlK4bwFTDWH1aLwD2nE-utkmS/view?usp=sharing 
+### Final Project Directions https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing
+### Reference Page https://drive.google.com/file/d/1_gXl_PfzrZelWk0g-aqvn74oL2p9WM4G/view?usp=sharing 
 ## INSTRUCTIONAL LINKS:
-https://p5js.org
-https://p5js.org/reference/
-https://p5js.org/examples/
-https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet
-(W3schools HTML Cheat Sheet) https://www.w3schools.com/tags/default.asp 
-(W3Schools CSS Cheat Sheet) https://www.w3schools.com/cssref/index.php 
+### https://p5js.org
+### https://p5js.org/reference/
+### https://p5js.org/examples/
+### https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet
+### (W3schools HTML Cheat Sheet) https://www.w3schools.com/tags/default.asp 
+### (W3Schools CSS Cheat Sheet) https://www.w3schools.com/cssref/index.php 
 (for coloring for P5)
- http://htmlcolorcodes.com 
+###  http://htmlcolorcodes.com 
 ## VIDEO LINKS:
-https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1&t=0s
-https://www.youtube.com/watch?v=MXs1cOlidWs
-https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
-https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5
-https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
-https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
-Youtube - The Coding Train Channel for Additional tutorials
+### https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1&t=0s
+### https://www.youtube.com/watch?v=MXs1cOlidWs
+### https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
+### https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5
+### https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
+### https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
+### Youtube - The Coding Train Channel for Additional tutorials
 
 
 ## Lesson Details:
