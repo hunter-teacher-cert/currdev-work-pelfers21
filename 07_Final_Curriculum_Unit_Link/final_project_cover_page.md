@@ -61,38 +61,38 @@ ANTICIPATED DURATION: 2 Weeks
 
 ## LESSON TABLE OF CONTENTS:
 ### WEEK 1: Introduction to P5 Interface - What is P%
-Lesson:  https://drive.google.com/file/d/1o-fy7MuzLR_5sF_my9K4CW5EZW2XjkKm/view?usp=sharing (Lesson)
-Slide Deck: https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharing (Slide Deck)
+### (Lesson):  https://drive.google.com/file/d/1o-fy7MuzLR_5sF_my9K4CW5EZW2XjkKm/view?usp=sharing 
+### Slide Deck): https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharing 
 ### WEEK 2: Creating With Shapes in the P5 Editor -Using the Graph
-Lesson:  https://drive.google.com/file/d/1Q4_U-BsCfFWQ5l6EG6uWa_1PCroYzlYV/view?usp=sharing (Lesson)
-Slide Deck:  https://drive.google.com/file/d/1gC2aLxqKyPrYhwnoS-STo5nF5dzojBxk/view?usp=sharing (Slide Deck)
+### (Lesson)  https://drive.google.com/file/d/1Q4_U-BsCfFWQ5l6EG6uWa_1PCroYzlYV/view?usp=sharing 
+### (Slide Deck)  https://drive.google.com/file/d/1gC2aLxqKyPrYhwnoS-STo5nF5dzojBxk/view?usp=sharing 
 ### WEEK 3:  Creating with Additional Shapes
-https://drive.google.com/file/d/12QbDDfeXE37RHqFTNK-tPer38zDNopFu/view?usp=sharing (Lesson)
-https://drive.google.com/file/d/1X-Nc21u_GBA_EwU0uNzDyg9XgClixpsS/view?usp=sharing (Slide Deck)
+### (Lesson) https://drive.google.com/file/d/12QbDDfeXE37RHqFTNK-tPer38zDNopFu/view?usp=sharing 
+### (Slide Deck) https://drive.google.com/file/d/1X-Nc21u_GBA_EwU0uNzDyg9XgClixpsS/view?usp=sharing 
 ### WEEK 4: Introduction to Creating with Digital Colors
-https://drive.google.com/file/d/1D5oz9EjiSMkIPvOY57EoXSYsWPt6Ihae/view?usp=sharing (Lesson)
-https://drive.google.com/file/d/1AqjWhXkFbG504WZBDGvDGCJO2gFGqBzI/view?usp=sharing (Slide Deck)
+### (Lesson) https://drive.google.com/file/d/1D5oz9EjiSMkIPvOY57EoXSYsWPt6Ihae/view?usp=sharing 
+### (Slide Deck) https://drive.google.com/file/d/1AqjWhXkFbG504WZBDGvDGCJO2gFGqBzI/view?usp=sharing 
 ### WEEK 5: Introduction to Shape Layering with Color
-https://drive.google.com/file/d/19PVmbOQGpeBo4-b2boLBtOQ9c0MvF-mF/view?usp=sharing (Lesson)
-https://drive.google.com/file/d/1RcMP0Sy4Wc0ux6WTPY0jT67znRlHyORe/view?usp=sharing (Slide Deck)
+### (Lesson) https://drive.google.com/file/d/19PVmbOQGpeBo4-b2boLBtOQ9c0MvF-mF/view?usp=sharing 
+### (Slide Deck) https://drive.google.com/file/d/1RcMP0Sy4Wc0ux6WTPY0jT67znRlHyORe/view?usp=sharing 
 ### WEEK 6:  P5 Summative Quiz
-https://drive.google.com/file/d/1Sdm6jPXen9VpoGczrYBw-7oe8k1hugaH/view?usp=sharing (Lesson Plan for Assessment)
-https://drive.google.com/file/d/10XgGQ4kLQUoemgdF4FP0GfQDpJQCoITr/view?usp=sharing (Quiz)
-https://drive.google.com/file/d/1P-Hwr-hJB3fE6eP0TjrJhpbQlFbOx23p/view?usp=sharing (Answer Key)
+### (Lesson Plan for Assessment)https://drive.google.com/file/d/1Sdm6jPXen9VpoGczrYBw-7oe8k1hugaH/view?usp=sharing 
+###(Quiz) https://drive.google.com/file/d/10XgGQ4kLQUoemgdF4FP0GfQDpJQCoITr/view?usp=sharing 
+### (Answer Key) https://drive.google.com/file/d/1P-Hwr-hJB3fE6eP0TjrJhpbQlFbOx23p/view?usp=sharing 
 ### WEEK 7: Review of HTML & CSS
-https://drive.google.com/file/d/18z_hElNNbjgOa83pmWjiiAEc9E6FHTRw/view?usp=sharing (HTML Review Lesson)
-https://drive.google.com/file/d/12scQcO8EMRWSVCEW3_7iqvnHnhLRQBAj/view?usp=sharing (Slide Deck)
+### (HTML Review Lesson) https://drive.google.com/file/d/18z_hElNNbjgOa83pmWjiiAEc9E6FHTRw/view?usp=sharing 
+### (Slide Deck) https://drive.google.com/file/d/12scQcO8EMRWSVCEW3_7iqvnHnhLRQBAj/view?usp=sharing 
 ### WEEK 8: CSS Review, Integration & Culminating Project
-https://drive.google.com/file/d/1zdx1o0gFzNZQXDiQ6xaD98U_Rx7Rju4Y/view?usp=sharing (CSS Review Lesson)
-https://drive.google.com/file/d/184B9Jcn1zgw5tyhXhOL7EDV69FpukWdK/view?usp=sharing (Slide Deck)
+### (CSS Review Lesson) https://drive.google.com/file/d/1zdx1o0gFzNZQXDiQ6xaD98U_Rx7Rju4Y/view?usp=sharing 
+### (Slide Deck) https://drive.google.com/file/d/184B9Jcn1zgw5tyhXhOL7EDV69FpukWdK/view?usp=sharing 
 ### WEEK 9: Project Lab Day 1: Work Pd for Project Recap Expectations, Tricks, Tools and Reminders 
-https://drive.google.com/file/d/1XlW_1IbV8K3rrpvKPX6KaCcsCWhATOm-/view?usp=sharing (Final Project Lesson)
-https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing (Final Project Slide Deck)
-https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing (Final Project Directions)
+### (Final Project Lesson)https://drive.google.com/file/d/1XlW_1IbV8K3rrpvKPX6KaCcsCWhATOm-/view?usp=sharing 
+### (Final Project Slide Deck) https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing 
+### (Final Project Directions) https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing 
 ### WEEK 10: Project Lab Day 2: Complete Project and Peer to Peer Support/Feedback  & Gallery Walk
-https://drive.google.com/file/d/1S5zh5td7zvloB1CDMhR1ZP60nD62FbiE/view?usp=sharing (Slide Deck
-https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing (Lesson on Reflection and Peer Feedback)
-https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing (Final Project Directions)
+### (Slide Deck) https://drive.google.com/file/d/1S5zh5td7zvloB1CDMhR1ZP60nD62FbiE/view?usp=sharing 
+### (Lesson on Reflection and Peer Feedback) https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing 
+### (Final Project Directions) https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing (Final Project Directions)
 
 
 ## Assessments
