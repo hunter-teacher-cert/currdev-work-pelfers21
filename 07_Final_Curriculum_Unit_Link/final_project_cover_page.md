@@ -35,6 +35,7 @@ Rubric:
 https://drive.google.com/file/d/1lMPVtwNHcEIQUMTBpnfV06O1dyQXV8D9/view?usp=sharing 
 P5Graph https://drive.google.com/file/d/1ZRwv7PxCBkZcXK21mRlOGEJMbZh19Ron/view?usp=sharing 
 Culture Project Planning Packet https://drive.google.com/file/d/1ro1pvdYHlK4bwFTDWH1aLwD2nE-utkmS/view?usp=sharing 
+Final Project Directions https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing
 Reference Page https://drive.google.com/file/d/1_gXl_PfzrZelWk0g-aqvn74oL2p9WM4G/view?usp=sharing 
 ## INSTRUCTIONAL LINKS:
 https://p5js.org
@@ -87,9 +88,11 @@ https://drive.google.com/file/d/184B9Jcn1zgw5tyhXhOL7EDV69FpukWdK/view?usp=shari
 ### WEEK 9: Project Lab Day 1: Work Pd for Project Recap Expectations, Tricks, Tools and Reminders 
 https://drive.google.com/file/d/1XlW_1IbV8K3rrpvKPX6KaCcsCWhATOm-/view?usp=sharing (Final Project Lesson)
 https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing (Final Project Slide Deck)
+https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing (Final Project Directions)
 ### WEEK 10: Project Lab Day 2: Complete Project and Peer to Peer Support/Feedback  & Gallery Walk
 https://drive.google.com/file/d/1S5zh5td7zvloB1CDMhR1ZP60nD62FbiE/view?usp=sharing (Slide Deck
 https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing (Lesson on Reflection and Peer Feedback)
+https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing (Final Project Directions)
 
 
 ## Assessments
@@ -99,6 +102,7 @@ SUMMATIVE: Unit One Quiz
 ### (Answer Key) https://drive.google.com/file/d/1P-Hwr-hJB3fE6eP0TjrJhpbQlFbOx23p/view?usp=sharing 
 ## FORMATIVE: Culture Project
 ### Culture Project Planning Packet https://drive.google.com/file/d/1ro1pvdYHlK4bwFTDWH1aLwD2nE-utkmS/view?usp=sharing 
+### Final Project Directions https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing 
 
 
 
