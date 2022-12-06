@@ -61,7 +61,7 @@ ANTICIPATED DURATION: 2 Weeks
 ## LESSON TABLE OF CONTENTS:
 ### WEEK 1: Introduction to P5 Interface - What is P5
 ### [Lesson One - P5 Interface](https://drive.google.com/file/d/1o-fy7MuzLR_5sF_my9K4CW5EZW2XjkKm/view?usp=sharing)  
-### [Slide Deck - Lesson One - P5 Interface](CurrDev - Unit 1 - Lesson 1 - https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharingP5 Interface.docx.pdf)
+### [Slide Deck - Lesson One - P5 Interface](https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharing)
 ### WEEK 2: Creating With Shapes in the P5 Editor -Using the Graph
 ###  [Lesson Two - P5 Creating With Shapes](https://drive.google.com/file/d/1Q4_U-BsCfFWQ5l6EG6uWa_1PCroYzlYV/view?usp=sharing)  
 ###  [Slide Deck - Lesson Two - P5 Creating with shapes](https://drive.google.com/file/d/1gC2aLxqKyPrYhwnoS-STo5nF5dzojBxk/view?usp=sharing)  
