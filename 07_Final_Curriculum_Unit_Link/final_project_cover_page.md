@@ -32,27 +32,26 @@ PROGRAM ENVIRONMENT(S): p5.js IDE LINK: https://editor.p5js.org
 ADDITIONAL MATERIALS: See individual lessons
 ## Resources:
 Rubric:
-### https://drive.google.com/file/d/1lMPVtwNHcEIQUMTBpnfV06O1dyQXV8D9/view?usp=sharing 
-### P5Graph https://drive.google.com/file/d/1ZRwv7PxCBkZcXK21mRlOGEJMbZh19Ron/view?usp=sharing 
-### Culture Project Planning Packet https://drive.google.com/file/d/1ro1pvdYHlK4bwFTDWH1aLwD2nE-utkmS/view?usp=sharing 
-### Final Project Directions https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing
-### Reference Page https://drive.google.com/file/d/1_gXl_PfzrZelWk0g-aqvn74oL2p9WM4G/view?usp=sharing 
+### CurrDev- P5 Project Rubric .pdf  
+### P5Graph CurrDev-p5 graph.pdf  
+### Culture Project Planning Packet CurrDev-CulturalProjectPlan.pdf  
+### Final Project Directions CurrDevP5 - Culture Project Directions 
+### Reference Page CurrDevP5 Reference.pdf  
 ## INSTRUCTIONAL LINKS:
-### https://p5js.org
-### https://p5js.org/reference/
-### https://p5js.org/examples/
-### https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet
-### (W3schools HTML Cheat Sheet) https://www.w3schools.com/tags/default.asp 
-### (W3Schools CSS Cheat Sheet) https://www.w3schools.com/cssref/index.php 
+### P5.js 
+### reference | p5.js 
+### examples | p5.js 
+### Learn p5.js: Introduction to Creative Coding Cheatsheet | Codecademy 
+### (W3schools HTML Cheat Sheet) HTML Element Reference  
+### (W3Schools CSS Cheat Sheet) CSS Reference 
 (for coloring for P5)
-###  http://htmlcolorcodes.com 
+###  HTML Color Codes  
 ## VIDEO LINKS:
-### https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1&t=0s
-### https://www.youtube.com/watch?v=MXs1cOlidWs
-### https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
-### https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5
-### https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
-### https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
+### 1.1: Code! Programming for Beginners with p5.js 
+### 1.2: p5.js Web Editor - p5.js Tutorial 
+### 1.3: Shapes & Drawing - p5.js Tutorial 
+### 1.4: Color - p5.js Tutorial 
+### 1.5: Errors & Console - p5.js Tutorial 
 ### Youtube - The Coding Train Channel for Additional tutorials
 
 
@@ -61,48 +60,50 @@ ANTICIPATED DURATION: 2 Weeks
 
 ## LESSON TABLE OF CONTENTS:
 ### WEEK 1: Introduction to P5 Interface - What is P5
-### (Lesson):  https://drive.google.com/file/d/1o-fy7MuzLR_5sF_my9K4CW5EZW2XjkKm/view?usp=sharing 
-### Slide Deck): https://drive.google.com/file/d/1CILvaa4HdAQfOzYJH5T_xo6Xo8QGUIBG/view?usp=sharing 
+### (Lesson):  CurrDev-Unit 1 - Lesson One- P5 InterfaceCurrDev .pdf   
+### Slide Deck): CurrDev - Unit 1 - Lesson 1 - P5 Interface.docx.pdf 
 ### WEEK 2: Creating With Shapes in the P5 Editor -Using the Graph
-### (Lesson)  https://drive.google.com/file/d/1Q4_U-BsCfFWQ5l6EG6uWa_1PCroYzlYV/view?usp=sharing 
-### (Slide Deck)  https://drive.google.com/file/d/1gC2aLxqKyPrYhwnoS-STo5nF5dzojBxk/view?usp=sharing 
+### (Lesson)  CurrDev-P5 - Unit 1 - Lesson 2 - Creating with Shapes -CurrDev.docx.pdf  
+### (Slide Deck)  CurrDev-P5 Unit One - Lesson 2 - Creating with Shapes.pdf  
 ### WEEK 3:  Creating with Additional Shapes
-### (Lesson) https://drive.google.com/file/d/12QbDDfeXE37RHqFTNK-tPer38zDNopFu/view?usp=sharing 
-### (Slide Deck) https://drive.google.com/file/d/1X-Nc21u_GBA_EwU0uNzDyg9XgClixpsS/view?usp=sharing 
+### (Lesson) CurrDev - Unit 1 - Lesson 3 -Creating With Additional Shapes.docx.pdf  
+### (Slide Deck) CurrDev-P5 Unit 1 Lesson 3 - Creating Additional Shapes.pdf  
 ### WEEK 4: Introduction to Creating with Digital Colors
-### (Lesson) https://drive.google.com/file/d/1D5oz9EjiSMkIPvOY57EoXSYsWPt6Ihae/view?usp=sharing 
-### (Slide Deck) https://drive.google.com/file/d/1AqjWhXkFbG504WZBDGvDGCJO2gFGqBzI/view?usp=sharing 
+### (Lesson) CurrDev-P5 - Unit 1 - Lesson 4 -Creating Digital Colors.docx.pdf  
+### (Slide Deck) CurrDev-P5 - Unit 1 - Lesson 4 - Digital Colors in P5.pdf  
 ### WEEK 5: Introduction to Shape Layering with Color
-### (Lesson) https://drive.google.com/file/d/19PVmbOQGpeBo4-b2boLBtOQ9c0MvF-mF/view?usp=sharing 
-### (Slide Deck) https://drive.google.com/file/d/1RcMP0Sy4Wc0ux6WTPY0jT67znRlHyORe/view?usp=sharing 
+### (Lesson) CurrDev - Unit 1 - Lesson 5 -ShapeLayering WithColor.docx.pdf 
+### (Slide Deck) P5 - Unit One - Lesson 5 - Shape Layering With Color (1).pdf  
 ### WEEK 6:  P5 Summative Quiz
-### (Lesson Plan for Assessment)https://drive.google.com/file/d/1Sdm6jPXen9VpoGczrYBw-7oe8k1hugaH/view?usp=sharing 
-###(Quiz) https://drive.google.com/file/d/10XgGQ4kLQUoemgdF4FP0GfQDpJQCoITr/view?usp=sharing 
-### (Answer Key) https://drive.google.com/file/d/1P-Hwr-hJB3fE6eP0TjrJhpbQlFbOx23p/view?usp=sharing 
+### (Lesson Plan forAssessment)
+CurrDevP5-Lesson6 - Summative Assessment.docx.pdf  
+###(Quiz) _CurrDev-P5 Quiz for Unit 1 .pdf  
+### (Answer Key) CurrDev-P5 Quiz for Unit 1 -AnswerKey.pdf  
 ### WEEK 7: Review of HTML & CSS
-### (HTML Review Lesson) https://drive.google.com/file/d/18z_hElNNbjgOa83pmWjiiAEc9E6FHTRw/view?usp=sharing 
-### (Slide Deck) https://drive.google.com/file/d/12scQcO8EMRWSVCEW3_7iqvnHnhLRQBAj/view?usp=sharing 
+### (HTML Review Lesson) CurrDev - Unit 1 - Lesson 7 - HTML_CSS review.docx.pdf  
+### (Slide Deck) CurrDevLesson7rev-HTML - Review.pdf  
 ### WEEK 8: CSS Review, Integration & Culminating Project
-### (CSS Review Lesson) https://drive.google.com/file/d/1zdx1o0gFzNZQXDiQ6xaD98U_Rx7Rju4Y/view?usp=sharing 
-### (Slide Deck) https://drive.google.com/file/d/184B9Jcn1zgw5tyhXhOL7EDV69FpukWdK/view?usp=sharing 
+### (CSS Review Lesson) CurrDev-P5 Unit1 Lesson8CSS Review.docx.pdf  
+### (Slide Deck) CurrDev P5 Unit One - Lesson 8 - CSS Review.pdf  
 ### WEEK 9: Project Lab Day 1: Work Pd for Project Recap Expectations, Tricks, Tools and Reminders 
-### (Final Project Lesson)https://drive.google.com/file/d/1XlW_1IbV8K3rrpvKPX6KaCcsCWhATOm-/view?usp=sharing 
-### (Final Project Slide Deck) https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing 
-### (Final Project Directions) https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing 
+### (Final Project Lesson)CurrDevP5 Unit1 Lesson 9 Culminating Project.docx (1).pdf  
+### (Final Project Slide Deck) CurrDevP5 - Unit 1 - Lesson 9 - Cultural Project.pdf  
+### (Final Project Directions) CurrDevP5 - Culture Project Directions  
 ### WEEK 10: Project Lab Day 2: Complete Project and Peer to Peer Support/Feedback  & Gallery Walk
-### (Slide Deck) https://drive.google.com/file/d/1S5zh5td7zvloB1CDMhR1ZP60nD62FbiE/view?usp=sharing 
-### (Lesson on Reflection and Peer Feedback) https://drive.google.com/file/d/15D64qpnhUjt0lJ5HJusMW2jRxsWftz7U/view?usp=sharing 
-### (Final Project Directions) https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing (Final Project Directions)
+### (Slide Deck) P5 - Unit 1 - Lesson 10 - Self Reflection and Peer Review (1).pdf  
+### (Lesson on Reflection and Peer Feedback) CurrDevP5 - Unit 1 - Lesson 9 - Cultural Project.pdf  
+### (Final Project Directions) CurrDevP5 - Culture Project Directions 
 
 
 ## Assessments
 SUMMATIVE: Unit One Quiz
-### (Lesson Plan for Assessment) https://drive.google.com/file/d/1Sdm6jPXen9VpoGczrYBw-7oe8k1hugaH/view?usp=sharing 
-### (Quiz) https://drive.google.com/file/d/10XgGQ4kLQUoemgdF4FP0GfQDpJQCoITr/view?usp=sharing 
-### (Answer Key) https://drive.google.com/file/d/1P-Hwr-hJB3fE6eP0TjrJhpbQlFbOx23p/view?usp=sharing 
+### (Lesson Plan for Assessment) CurrDevP5-Lesson6 - Summative Assessment.docx.pdf 
+### (Quiz) _CurrDev-P5 Quiz for Unit 1 .pdf  
+### (Answer Key) CurrDev-P5 Quiz for Unit 1 -AnswerKey.pdf  
 ## FORMATIVE: Culture Project
-### Culture Project Planning Packet https://drive.google.com/file/d/1ro1pvdYHlK4bwFTDWH1aLwD2nE-utkmS/view?usp=sharing 
-### Final Project Directions https://docs.google.com/document/d/1f05hDWgadwfRmhdlCOVMtRrh2Oex0OVN2r-ZfVFCQjM/edit?usp=sharing 
+### Culture Project Planning Packet CurrDev-CulturalProjectPlan.pdf  
+### Final Project Directions CurrDevP5 - Culture Project Directions  
+
 
 
 
