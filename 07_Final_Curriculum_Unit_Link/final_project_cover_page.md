@@ -40,7 +40,7 @@ Rubric:
 ## INSTRUCTIONAL LINKS:
 ### [P5 Web Editor](https://p5js.org) 
 ### [P5-Reference Page](https://p5js.org/reference/)
-### [P5-Examples](examples | p5.js)
+### [P5-Examples](https://p5js.org/examples)
 ### [Code Academy Cheat Sheet](https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet) 
 ### [W3schools HTML Cheat Sheet](https://www.w3schools.com/tags/default.asp)  
 ### [W3Schools CSS Cheat Sheet](https://www.w3schools.com/tags/default.asp) 
